@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 58,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 16,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 11,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 13,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 0,
+    "class spplagiarise.obfuscation.l5.ForToWhileLoopFilter" : 1,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Assignment1">
+    <output-path>/Library/Tomcat/webapps/assignment1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Assignment1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

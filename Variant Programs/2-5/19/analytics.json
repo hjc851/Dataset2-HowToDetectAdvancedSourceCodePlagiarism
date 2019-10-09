@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 58,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 47,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 35,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 0,
+    "class spplagiarise.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 25,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

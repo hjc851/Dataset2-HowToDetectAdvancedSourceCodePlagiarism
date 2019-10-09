@@ -1,0 +1,14 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 74,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 18,
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 4,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 23,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 20,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 26,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 47,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 0,
+    "class spplagiarise.obfuscation.l5.CombinedAssignmentExpanderFilter" : 9,
+    "class spplagiarise.obfuscation.l5.ForToWhileLoopFilter" : 3
+  }
+}

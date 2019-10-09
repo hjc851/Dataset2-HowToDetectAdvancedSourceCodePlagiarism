@@ -1,0 +1,14 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 221,
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 12,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 85,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 58,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 20,
+    "class spplagiarise.obfuscation.l5.CombinedAssignmentExpanderFilter" : 9,
+    "class spplagiarise.obfuscation.l5.ForToWhileLoopFilter" : 0,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 86,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 29,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 0,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 63,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 52,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 77
+  }
+}

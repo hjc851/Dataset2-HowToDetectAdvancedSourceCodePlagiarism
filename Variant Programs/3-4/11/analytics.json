@@ -1,0 +1,10 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 11,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 13,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 16,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 7,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 5,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 25,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 11
+  }
+}

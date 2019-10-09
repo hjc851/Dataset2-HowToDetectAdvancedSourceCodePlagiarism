@@ -1,0 +1,12 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 0,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 63,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 52,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 36,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 77,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 17,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 118,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

@@ -1,0 +1,20 @@
+import trainer.MethodsRobot;
+
+public class C3063467A2 {
+
+  public static synchronized void main(String[] use) {
+
+    if (use.length < 1) {
+      System.out.println("Error: No input file provided. Please run again with a input param.");
+    } else {
+      String opinion;
+      MethodsRobot plans;
+      opinion = "";
+      for (String fh : use) {
+        opinion = fh;
+      }
+      plans = new MethodsRobot();
+      plans.play(opinion);
+    }
+  }
+}

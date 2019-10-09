@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 43,
+    "class spplagiarise.obfuscation.l5.ForToWhileLoopFilter" : 2,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 66
+  }
+}

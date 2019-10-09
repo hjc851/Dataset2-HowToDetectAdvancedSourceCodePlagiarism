@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 58,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 16,
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 12
+  }
+}

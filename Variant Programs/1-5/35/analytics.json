@@ -1,0 +1,8 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 12,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 0,
+    "class spplagiarise.obfuscation.l5.CombinedAssignmentExpanderFilter" : 9,
+    "class spplagiarise.obfuscation.l5.IncDecExpanderFilter" : 0
+  }
+}

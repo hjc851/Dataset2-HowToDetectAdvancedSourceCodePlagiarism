@@ -1,0 +1,9 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 52,
+    "class spplagiarise.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 66,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 18,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 24
+  }
+}

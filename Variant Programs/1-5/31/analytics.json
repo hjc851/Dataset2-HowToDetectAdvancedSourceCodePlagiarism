@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 69,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 50,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 20,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 7,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 29,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 9,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

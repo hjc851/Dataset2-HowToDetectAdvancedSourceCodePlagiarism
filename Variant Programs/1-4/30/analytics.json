@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 103,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 85,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 50
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 58,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 16,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 18,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 11,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 27,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 5,
+    "class spplagiarise.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 23
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 47,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 35,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 29
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 18,
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 4,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 20,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 3
+  }
+}

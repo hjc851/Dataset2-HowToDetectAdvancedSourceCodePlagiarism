@@ -1,0 +1,10 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 74,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 18,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 23,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 24,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 47,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 3
+  }
+}

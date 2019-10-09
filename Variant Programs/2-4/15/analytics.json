@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 37,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 35,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 20
+  }
+}

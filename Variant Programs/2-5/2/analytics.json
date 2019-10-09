@@ -1,0 +1,11 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 103,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 58,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 76,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 12,
+    "class spplagiarise.obfuscation.l5.CombinedAssignmentExpanderFilter" : 2,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 148,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 82,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 43,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 1,
+    "class spplagiarise.obfuscation.l5.ReplaceConstantWithVariableFilter" : 66,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticMethodWithStaticImportFilter" : 24
+  }
+}

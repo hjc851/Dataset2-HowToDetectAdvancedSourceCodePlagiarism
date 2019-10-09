@@ -1,0 +1,7 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 37,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 29,
+    "class spplagiarise.obfuscation.l3.RearrangeMemberDeclarations" : 12
+  }
+}

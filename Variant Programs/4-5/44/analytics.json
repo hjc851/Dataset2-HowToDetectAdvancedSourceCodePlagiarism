@@ -1,0 +1,15 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 82,
+    "class spplagiarise.obfuscation.l3.ChangeAccessModifiers" : 43,
+    "class spplagiarise.obfuscation.l3.VariableDeclarationAssignDefaultValue" : 36,
+    "class spplagiarise.obfuscation.l3.StandardiseVariableDeclarationsAtMethodStart" : 25,
+    "class spplagiarise.obfuscation.l4.BlockExtractor" : 17,
+    "class spplagiarise.obfuscation.util.SwitchToIfFilter" : 1,
+    "class spplagiarise.obfuscation.l5.CombinedAssignmentExpanderFilter" : 0,
+    "class spplagiarise.obfuscation.l5.ForToWhileLoopFilter" : 2,
+    "class spplagiarise.obfuscation.l5.IncDecExpanderFilter" : 0,
+    "class spplagiarise.obfuscation.l6.ReplaceStaticFieldWithStaticImportFilter" : 18,
+    "class spplagiarise.obfuscation.l6.AddBracketsToExpressionFilter" : 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "modifications" : {
+    "class spplagiarise.obfuscation.l2.DeclarationTypeNameQualifierDequalifier" : 221,
+    "class spplagiarise.obfuscation.l3.MoveKnownFieldAssignmentToInitialiser" : 12,
+    "class spplagiarise.obfuscation.l3.DeclareRedundantConstants" : 103,
+    "class spplagiarise.obfuscation.l3.SynchroniserObfuscator" : 85
+  }
+}
